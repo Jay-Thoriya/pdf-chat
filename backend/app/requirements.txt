@@ -1,0 +1,5 @@
+Flask==2.2.2
+werkzeug==2.2.2
+openai==0.27.0
+langchain==0.0.179
+pypdf==3.6.0

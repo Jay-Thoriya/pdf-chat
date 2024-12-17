@@ -1,0 +1,69 @@
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    
+  }
+  
+  .layout {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .uploadedFiles {
+    flex: 1;
+  }
+  
+  .uploadButtons {
+    width: 14rem;
+  }
+  
+  .chatArea {
+    margin-bottom: 1rem;
+  }
+  
+  .messageList {
+    height: 200px;
+  }
+  
+  .message {
+    margin-bottom: 0.5rem;
+  }
+  
+  .userMessage {
+    text-align: right;
+  }
+  
+  .assistantMessage {
+    text-align: left;
+  }
+  
+  .messageContent {
+    display: inline-block;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+  }
+  
+  .userMessageContent {
+    background-color: #3b82f6;
+    color: white;
+  }
+  
+  .assistantMessageContent {
+    background-color: #e5e7eb;
+  }
+  
+  .inputForm {
+    display: flex;
+    gap: 0.5rem;
+  }
+  
+  
